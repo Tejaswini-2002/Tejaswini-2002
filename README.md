@@ -19,4 +19,4 @@ Web development and data analysis captivate my curiosity and passion.
 ![HTML5-#E91E63](https://github.com/Tejaswini-2002/Tejaswini_Sirimalla/assets/97162347/038ea096-af2f-43c4-9dce-7bb2d5337523)
 ![Python-#109C18](https://github.com/Tejaswini-2002/Tejaswini_Sirimalla/assets/97162347/67ec8fc0-15a0-4fce-a8e6-1b702ee1a6a5)
 
-
+ --- ### :fire: My Stats
