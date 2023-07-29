@@ -14,4 +14,8 @@ Web development and data analysis captivate my curiosity and passion.
 [![text](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tejaswini-2002?tab=repositories)
 
 ## Languages:
-![ISO_C++_Logo svg](https://github.com/Tejaswini-2002/Tejaswini_Sirimalla/assets/97162347/3da57a08-0e96-401d-bdf3-b88257b86d02)
+![C](https://img.shields.io/badge/C-%23323330.svg?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/C++-%23323330.svg?style=flat-square&logo=cplusplus)
+![CSS3](https://img.shields.io/badge/CSS3-%23323330.svg?style=flat-square&logo=css3)
+![HTML5](https://img.shields.io/badge/HTML5-%23323330.svg?style=flat-square&logo=html5)
+![Python](https://img.shields.io/badge/Python-%23323330.svg?style=flat-square&logo=python)
