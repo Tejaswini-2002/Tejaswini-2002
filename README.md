@@ -1,4 +1,4 @@
-## Hola!! I'm Tejaswini Sirimalla 
+##                   👋 Hola!! I'm Tejaswini Sirimalla 
 
 
 Web development and data analysis captivate my curiosity and passion.  
