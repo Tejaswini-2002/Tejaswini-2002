@@ -4,7 +4,7 @@
 Web development and data analysis captivate my curiosity and passion.  
 
 - 👩‍🎓 I'm pursuing B.Tech in Electronics and Communication Engineering at Visveswaraya National Institute of Technology, Nagpur.
-- 👩‍💻 I'm currently working on a Web development Project.
+
 
 
 ## Social Profile:
